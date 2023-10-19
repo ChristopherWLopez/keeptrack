@@ -1,5 +1,8 @@
 import React from 'react'
 
-export default function Greeter() {
-  return <h1>Hello</h1>;
+const Greeter = () => {
+  return <h2>This is my header</h2>;
 }
+
+export default Greeter
+
